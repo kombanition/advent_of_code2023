@@ -4,7 +4,7 @@ from word2number import w2n
 
 numbers = ('one|two|three|four|five|six|seven|eight|nine|1|2|3|4|5|6|7|8|9')
 
-with open('/home/nik/snap/thonny/current/code_advent_2023/day#1/puzzle_input.txt') as file:
+with open('/home/kombanition/snap/thonny/current/code_advent_2023/day#1/puzzle_input.txt') as file:
     lines = []
     for line in file:
 #        print(line)
