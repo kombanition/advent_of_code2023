@@ -1,6 +1,6 @@
 import re
     
-with open('/home/nik/Desktop/puzzle_input.txt', 'r') as file:
+with open('/home/kombanition/Desktop/puzzle_input.txt', 'r') as file:
     lines = []
     for line in file:
         line = line.strip()
